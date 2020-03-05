@@ -1,1 +1,3 @@
-# Build your say_hello method here
+name ="Dan"
+ language = "Ember.js"
+end
